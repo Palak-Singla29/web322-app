@@ -6,7 +6,7 @@ I declare that this assignment is my own work in accordance with Seneca  Academi
 Name: PalakSingla 
 Student ID: 169379211
 Date: 2 June 2023
-Cyclic Web App URL: _______________________________________________________
+Cyclic Web App URL: https://vast-gray-sea-lion-tux.cyclic.app
 GitHub Repository URL: https://github.com/Palak-Singla29/web322-app.git
 
 ********************************************************************************/ 
